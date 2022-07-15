@@ -1,7 +1,7 @@
-package net.okashikami.fmachinemod.mixin;
+package net.okashikami.fmachine.mixin;
 
 import net.minecraft.client.gui.screen.TitleScreen;
-import net.okashikami.fmachinemod.FMachineMod;
+import net.okashikami.fmachine.FMachineMod;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;

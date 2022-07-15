@@ -1,4 +1,4 @@
-package net.okashikami.fmachinemod;
+package net.okashikami.fmachine;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;

@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "fmachinemod",
+  "id": "fmachine",
   "version": "${version}",
 
-  "name": "FMachine Mod",
+  "name": "FMachine",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "OkashiKami!"
+    "OkashiKami"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -14,16 +14,16 @@
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/fmachine/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.okashikami.fmachinemod.FMachineMod"
+      "net.okashikami.fmachine.FMachine"
     ]
   },
   "mixins": [
-    "fmachinemod.mixins.json"
+    "fmachine.mixins.json"
   ],
 
   "depends": {
