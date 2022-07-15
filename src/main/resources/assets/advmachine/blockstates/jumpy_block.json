@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "advmachine:block/jumpy_block" }
+  }
+}

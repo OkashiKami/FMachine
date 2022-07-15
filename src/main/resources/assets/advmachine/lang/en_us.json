@@ -1,0 +1,26 @@
+{
+  "item.advmachine.raw_tanzanite": "Raw Tanzanite",
+  "item.advmachine.tanzanite": "Tanzanite",
+  "item.advmachine.eight_ball": "Eight Ball",
+  "item.advmachine.eggplant": "Eggplant",
+  "item.advmachine.eggplant_seeds": "Eggplant Seeds",
+
+  "block.advmachine.tanzanite_block": "Block of Tanzanite",
+  "block.advmachine.tanzanite_ore": "Tanzanite Ore",
+  "block.advmachine.deepslate_tanzanite_ore": "Deepslate Tanzanite Ore",
+  "block.advmachine.endstone_tanzanite_ore": "Endstone Tanzanite Ore",
+  "block.advmachine.netherrack_tanzanite_ore": "Netherrack Tanzanite Ore",
+  "block.advmachine.jumpy_block": "Jumpy Block",
+  "block.advmachine.tanzanite_lamp": "Tanzanite Lamp",
+  "block.advmachine.eggplant_crop": "Eggplant Crop",
+
+  "itemGroup.advmachine.tanzanite": "Tanzanite Tutorial Tab",
+
+  "entity.minecraft.villager.jumpmaster": "Jump Master",
+
+  "key.category.advmachine.tutorial": "Tutorial Mod",
+  "key.advmachine.drink_water": "Drink Water Key",
+
+  "message.advmachine.drank_water": "Drank Water!",
+  "message.advmachine.no_water": "No Water around!"
+}
